@@ -1,3 +1,1 @@
-# Hello world!👋
-
-**Our Website** [finanzauto.com](https://www.finanzauto.com.co)
+# Ha accedido a un sistema propiedad de Finanzauto S.A. BIC. Necesita tener autorización antes de usarlo, y su uso está estrictamente limitado a lo indicado en dicha autorización. El acceso no autorizado a este sistema o el uso indebido del mismo están prohibidos y son contrarios a la Política de Seguridad y a la legislación vigente. Si revela información interna de Finanzauto S.A. BIC o de sus clientes sin previa autorización, podría estar incurriendo en una violación de la Normativa de la Compañía, lo que podría incluso suponer la comisión de un delito o falta.
